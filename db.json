@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "status": "not completed"
+    },
+    {
+      "id": "cdaa",
+      "title": "ram",
+      "status": "pending"
+    }
+  ]
+}
